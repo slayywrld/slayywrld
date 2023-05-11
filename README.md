@@ -1,3 +1,3 @@
- <img align="right" alt="Coding" width="400" src="images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eb274e63-199b-4293-8bb3-6437f133e9b6/dcyab75-9ac13a29-d1c4-4807-a669-b94fe5c22a66.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ViMjc0ZTYzLTE5OWItNDI5My04YmIzLTY0MzdmMTMzZTliNlwvZGN5YWI3NS05YWMxM2EyOS1kMWM0LTQ4MDctYTY2OS1iOTRmZTVjMjJhNjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VHa03V6hPtApUUgRt2uwuUNt9rp-GusWtnt8UZ4ca9M">
+ <img align="right" alt="Coding" width="400" src="dcyab75-9ac13a29-d1c4-4807-a669-b94fe5c22a66.gif">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slayywrld&show_icons=true&theme=radical)
